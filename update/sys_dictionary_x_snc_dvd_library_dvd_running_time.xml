@@ -52,7 +52,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>andy.venables</sys_created_by>
         <sys_created_on>2017-09-11 16:59:04</sys_created_on>
-        <sys_id>1974978737894700809143ba54990e0a</sys_id>
+        <sys_id>79571f0f37894700809143ba54990e94</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Running time</sys_name>
         <sys_package display_value="Media Library" source="x_snc_dvd_library">c9cef64737494700809143ba54990eee</sys_package>
@@ -60,7 +60,7 @@
         <sys_scope display_value="Media Library">c9cef64737494700809143ba54990eee</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_dvd_library_dvd_running_time</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-09-11 18:26:40</sys_updated_on>
+        <sys_updated_on>2017-09-11 18:39:16</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
