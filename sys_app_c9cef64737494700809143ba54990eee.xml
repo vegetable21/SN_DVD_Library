@@ -7,8 +7,8 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu display_value="DVD Library">c9ce764737494700809143ba54990ed3</menu>
-        <name>DVD Library</name>
+        <menu display_value="Media Library">c9ce764737494700809143ba54990ed3</menu>
+        <name>Media Library</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -23,14 +23,14 @@
         <sys_created_by>andy.venables</sys_created_by>
         <sys_created_on>2017-09-11 16:51:53</sys_created_on>
         <sys_id>c9cef64737494700809143ba54990eee</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>andy.venables</sys_updated_by>
-        <sys_updated_on>2017-09-11 17:03:53</sys_updated_on>
+        <sys_updated_on>2017-09-11 17:05:18</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role display_value="x_snc_dvd_library.user" name="x_snc_dvd_library.user">c5ce764737494700809143ba54990ed7</user_role>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.0</version>
+        <version>2.0.0</version>
     </sys_app>
 </record_update>

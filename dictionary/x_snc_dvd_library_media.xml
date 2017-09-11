@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Media" max_length="40" name="x_snc_dvd_library_media" type="collection">
+        <element label="Attributes" max_length="4000" name="attributes" type="simple_name_values"/>
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Running time" max_length="40" name="running_time" type="glide_duration"/>
+        <element label="Title" max_length="100" name="title" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="DVD" sequence="0" value="DVD"/>
+                <element label="Music" sequence="1" value="Music"/>
+            </choice>
+        </element>
+        <element label="Year" max_length="10" name="year" type="string"/>
+    </element>
+</database>

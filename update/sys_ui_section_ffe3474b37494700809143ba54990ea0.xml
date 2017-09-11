@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Attributes" section_id="ffe3474b37494700809143ba54990ea0" sys_domain="global" table="x_snc_dvd_library_media" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attributes</element>
+            <position>0</position>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:27</sys_created_on>
+            <sys_id>b3e3c78b37494700809143ba54990e95</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Attributes" display_value="Attributes" name="x_snc_dvd_library_media" sys_domain="global" view="Default view">ffe3474b37494700809143ba54990ea0</sys_ui_section>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Attributes</caption>
+            <header>false</header>
+            <name>x_snc_dvd_library_media</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ffe3474b37494700809143ba54990ea0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Attributes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Media Library" source="x_snc_dvd_library">c9cef64737494700809143ba54990eee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Media Library">c9cef64737494700809143ba54990eee</sys_scope>
+            <sys_update_name>sys_ui_section_ffe3474b37494700809143ba54990ea0</sys_update_name>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:26</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

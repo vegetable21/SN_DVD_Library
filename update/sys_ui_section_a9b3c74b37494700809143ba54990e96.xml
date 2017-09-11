@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="a9b3c74b37494700809143ba54990e96" sys_domain="global" table="x_snc_dvd_library_media" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:27</sys_created_on>
+            <sys_id>bbe3c78b37494700809143ba54990e8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dvd_library_media" sys_domain="global" view="Default view">a9b3c74b37494700809143ba54990e96</sys_ui_section>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>1</position>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:27</sys_created_on>
+            <sys_id>3fe3c78b37494700809143ba54990e8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dvd_library_media" sys_domain="global" view="Default view">a9b3c74b37494700809143ba54990e96</sys_ui_section>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <position>2</position>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:27</sys_created_on>
+            <sys_id>bfe3c78b37494700809143ba54990e8f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dvd_library_media" sys_domain="global" view="Default view">a9b3c74b37494700809143ba54990e96</sys_ui_section>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>image</element>
+            <position>3</position>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:27</sys_created_on>
+            <sys_id>33e3c78b37494700809143ba54990e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dvd_library_media" sys_domain="global" view="Default view">a9b3c74b37494700809143ba54990e96</sys_ui_section>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:27</sys_created_on>
+            <sys_id>b3e3c78b37494700809143ba54990e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dvd_library_media" sys_domain="global" view="Default view">a9b3c74b37494700809143ba54990e96</sys_ui_section>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>year</element>
+            <position>5</position>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:27</sys_created_on>
+            <sys_id>37e3c78b37494700809143ba54990e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dvd_library_media" sys_domain="global" view="Default view">a9b3c74b37494700809143ba54990e96</sys_ui_section>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>running_time</element>
+            <position>6</position>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:14:27</sys_created_on>
+            <sys_id>b7e3c78b37494700809143ba54990e90</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_dvd_library_media" sys_domain="global" view="Default view">a9b3c74b37494700809143ba54990e96</sys_ui_section>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:14:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_dvd_library_media</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>andy.venables</sys_created_by>
+            <sys_created_on>2017-09-11 17:13:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9b3c74b37494700809143ba54990e96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_dvd_library_media</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Media Library" source="x_snc_dvd_library">c9cef64737494700809143ba54990eee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Media Library">c9cef64737494700809143ba54990eee</sys_scope>
+            <sys_update_name>sys_ui_section_a9b3c74b37494700809143ba54990e96</sys_update_name>
+            <sys_updated_by>andy.venables</sys_updated_by>
+            <sys_updated_on>2017-09-11 17:13:29</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

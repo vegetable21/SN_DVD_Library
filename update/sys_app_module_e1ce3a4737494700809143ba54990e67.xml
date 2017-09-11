@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="DVD Library">c9ce764737494700809143ba54990ed3</application>
+        <application display_value="Media Library">c9ce764737494700809143ba54990ed3</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -31,9 +31,9 @@
         <sys_mod_count>1</sys_mod_count>
         <sys_name>DVDs</sys_name>
         <sys_overrides/>
-        <sys_package display_value="DVD Library" source="x_snc_dvd_library">c9cef64737494700809143ba54990eee</sys_package>
+        <sys_package display_value="Media Library" source="x_snc_dvd_library">c9cef64737494700809143ba54990eee</sys_package>
         <sys_policy/>
-        <sys_scope display_value="DVD Library">c9cef64737494700809143ba54990eee</sys_scope>
+        <sys_scope display_value="Media Library">c9cef64737494700809143ba54990eee</sys_scope>
         <sys_update_name>sys_app_module_e1ce3a4737494700809143ba54990e67</sys_update_name>
         <sys_updated_by>andy.venables</sys_updated_by>
         <sys_updated_on>2017-09-11 16:53:22</sys_updated_on>
