@@ -3,6 +3,7 @@
     <element label="DVD" max_length="40" name="x_snc_dvd_library_dvd" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Director" max_length="100" name="director" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Running time" max_length="40" name="running_time" type="glide_duration"/>
         <element label="Title" max_length="100" name="title" type="string"/>
         <element label="Year" max_length="10" name="year" type="string"/>
     </element>
